@@ -1,6 +1,7 @@
 # element-spa-sample
 
-> A sample project of Element SPA.
+ElementSpa 项目的实例。
+不用vue-cli的也可以将此项目clone下来。此项目会与ElementSpa同步。
 
 ## Build Setup
 

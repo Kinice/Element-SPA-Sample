@@ -31,6 +31,10 @@ export default new Router({
         {
             path: '/test',
             component: Test
+        },
+        {
+            path: '/yu',
+            component: require('./pages/yu.vue')
         }
         ],
         redirect: '/hello'

@@ -3,6 +3,7 @@
     <el-menu :default-active="defaultIndex" @select="handleSelect">
       <router-link to="/"><el-menu-item index="1"><i class="el-icon-message"></i>翻译示例</el-menu-item></router-link>
       <router-link to="/test"><el-menu-item index="2"><i class="el-icon-menu"></i>表格示例</el-menu-item></router-link>
+      <router-link to="/yu"><el-menu-item index="3"><i class="el-icon-menu"></i>小宇示例</el-menu-item></router-link>
     </el-menu>
   </div>
 </template>
